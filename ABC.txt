@@ -1,3 +1,4 @@
 CPU
 mouse
 monitor
+cpu2
