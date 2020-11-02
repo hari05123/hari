@@ -2,3 +2,6 @@ CPU
 mouse
 monitor
 cpu2
+
+
+mouse2
